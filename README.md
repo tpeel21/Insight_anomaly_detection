@@ -20,7 +20,7 @@ sys: for finding absolute paths of python script
 
 sqrt from math: for computing standard deviation.
 
-OrderedDict from collections: for creating python dictionaries for json object
+OrderedDict from collections: for creating custom python dictionaries for json object
 
 ## Tests
 
