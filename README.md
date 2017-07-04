@@ -12,15 +12,15 @@ Written by Dr. Tyler Peel (tpeel21@gmail.com) within Python v3.6.1 64bits, for t
 
 ## Libraries
 
-json: for reading, writing to json files
+json: for reading, writing to json files.
 
-os: for producing operating-system-independent pathways
+os: for producing operating-system-independent pathways.
 
-sys: for finding absolute paths of python script
+sys: for finding absolute paths of python script.
 
 sqrt from math: for computing standard deviation.
 
-OrderedDict from collections: for creating custom python dictionaries for json object
+OrderedDict from collections: for creating custom python dictionaries for json object.
 
 ## Tests
 
