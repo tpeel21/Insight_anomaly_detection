@@ -10,7 +10,17 @@ Reads in ./log_input/batch_log.json to initialize T and D values (first json obj
 
 Written by Dr. Tyler Peel (tpeel21@gmail.com) for the Insight program (2017).
 
-##
+## Libraries
+
+json: for reading, writing to json files
+
+os: for producing os independent pathways
+
+sys: for finding absolute paths of python script
+
+sqrt from math: for computing standard deviation.
+
+OrderedDict from collections: for creating python dictionaries for json object
 
 ## Tests
 
