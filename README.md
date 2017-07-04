@@ -12,4 +12,9 @@ then it is flagged within ./log_input/flagged_purchases.json.
 Written by Dr. Tyler Peel (tpeel21@gmail.com) for the Insight program (2017).
 
 ##
-sdfs
+
+## Tests
+
+Test_1: this test was provided by the insight program.
+Test_2: test using provided medium-sized dataset
+Test_3: test using provided medium-sized dataset, but D = 4 and T = 100. 
