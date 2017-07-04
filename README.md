@@ -10,3 +10,6 @@ Reads in ./log_input/batch_log.json to initialize T and D values (first json obj
 then it is flagged within ./log_input/flagged_purchases.json.
 
 Written by Dr. Tyler Peel (tpeel21@gmail.com) for the Insight program (2017).
+
+##
+sdfs
