@@ -15,6 +15,8 @@ Written by Dr. Tyler Peel (tpeel21@gmail.com) for the Insight program (2017).
 
 ## Tests
 
-Test_1: this test was provided by the insight program.
-Test_2: test using provided medium-sized dataset
-Test_3: test using provided medium-sized dataset, but D = 4 and T = 100. 
+Test_1: this test was provided by the insight program. Demonstrates that program works and directories are correct.
+
+Test_2: test using provided medium-sized dataset. Shows how the script can easily handle large databases.
+
+Test_3: test using provided medium-sized dataset, but D = 4 and T = 100. Illustrates the flexible use of parameters. 
