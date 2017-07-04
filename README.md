@@ -14,7 +14,7 @@ Written by Dr. Tyler Peel (tpeel21@gmail.com) for the Insight program (2017).
 
 json: for reading, writing to json files
 
-os: for producing os independent pathways
+os: for producing operating-system-independent pathways
 
 sys: for finding absolute paths of python script
 
